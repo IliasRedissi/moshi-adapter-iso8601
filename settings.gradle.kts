@@ -1,3 +1,3 @@
-rootProject.name = "moshi-adapter-iso8601"
-include(":jdk8", ":threeten", ":threetenabp")
+rootProject.name = "moshi-adapters-iso8601"
+include(":adapters-jdk8", ":adapters-threeten", ":adapters-threetenabp")
 

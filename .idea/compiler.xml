@@ -2,8 +2,20 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="moshi-adapter-iso8601.adapters-jdk8.main" target="1.8" />
+      <module name="moshi-adapter-iso8601.adapters-jdk8.test" target="1.8" />
+      <module name="moshi-adapter-iso8601.adapters-threeten.main" target="1.8" />
+      <module name="moshi-adapter-iso8601.adapters-threeten.test" target="1.8" />
+      <module name="moshi-adapter-iso8601.adapters-threetenabp.main" target="1.8" />
+      <module name="moshi-adapter-iso8601.adapters-threetenabp.test" target="1.8" />
+      <module name="moshi-adapter-iso8601.jdk8.main" target="1.8" />
+      <module name="moshi-adapter-iso8601.jdk8.test" target="1.8" />
       <module name="moshi-adapter-iso8601.main" target="1.8" />
       <module name="moshi-adapter-iso8601.test" target="1.8" />
+      <module name="moshi-adapter-iso8601.threeten.main" target="1.8" />
+      <module name="moshi-adapter-iso8601.threeten.test" target="1.8" />
+      <module name="moshi-adapter-iso8601.threetenabp.main" target="1.8" />
+      <module name="moshi-adapter-iso8601.threetenabp.test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
