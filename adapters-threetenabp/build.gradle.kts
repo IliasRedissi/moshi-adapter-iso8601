@@ -8,3 +8,5 @@ dependencies {
     implementation("com.jakewharton.threetenabp:threetenabp:1.2.2")
     testImplementation("junit:junit:4.13")
 }
+
+apply("$rootDir/gradle/gradle-mvn-push.gradle")
