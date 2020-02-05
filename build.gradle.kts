@@ -1,7 +1,10 @@
-group = "com.redissi"
+val GROUP: String by project
+val VERSION_NAME: String by project
+
+group = GROUP
 
 subprojects {
-    version = "0.1.0-SNAPSHOT"
+    version = VERSION_NAME
 
     repositories {
         mavenCentral()

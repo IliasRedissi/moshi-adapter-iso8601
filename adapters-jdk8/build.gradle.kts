@@ -16,3 +16,5 @@ dependencies {
     implementation("com.squareup.moshi:moshi:1.9.2")
     testImplementation("junit:junit:4.13")
 }
+
+apply("$rootDir/gradle/gradle-mvn-push.gradle")
