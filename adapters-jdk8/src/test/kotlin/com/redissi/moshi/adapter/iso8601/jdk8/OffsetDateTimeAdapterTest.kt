@@ -1,4 +1,4 @@
-package com.redissi.moshi.adapter.iso8601.threetenadp
+package com.redissi.moshi.adapter.iso8601.jdk8
 
 
 import org.junit.Test
